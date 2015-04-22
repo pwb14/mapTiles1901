@@ -1,0 +1,12 @@
+{
+  "name": "mapTiles1901",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "12",
+  "maxzoom": "16",
+  "bounds": "-79.97076347,32.74938908,-79.90508782,32.81485220",
+  "scale": "1",
+  "profile": "mercator"
+}
